@@ -185,7 +185,7 @@ See `DATA_NOTES.md` §2 for the one caveat on this input file's `campaign` colum
 
 ## Team
 
-Marwa, Radwa, Basma, Yomna.
+Marwa, [Radwa](https://github.com/radwaelashry30-crypto), [Basma](https://github.com/BasmaMansour99), Yomna.
 
 ## Data Notes
 
